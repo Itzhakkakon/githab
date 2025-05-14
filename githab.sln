@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "githab", "githab\githab.csproj", "{3BB95489-452B-46C7-BDE6-2A29F6FA9E86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BB95489-452B-46C7-BDE6-2A29F6FA9E86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BB95489-452B-46C7-BDE6-2A29F6FA9E86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BB95489-452B-46C7-BDE6-2A29F6FA9E86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BB95489-452B-46C7-BDE6-2A29F6FA9E86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C23066C-0B31-4405-8BDB-35C0327892A5}
+	EndGlobalSection
+EndGlobal
