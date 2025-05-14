@@ -10,6 +10,8 @@ namespace githab
     {
         static void Main(string[] args)
         {
+            int x = 0;
+            int y = 0;
         }
     }
 }
